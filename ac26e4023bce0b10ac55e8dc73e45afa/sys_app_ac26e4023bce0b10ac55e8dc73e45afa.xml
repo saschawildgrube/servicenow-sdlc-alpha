@@ -15,7 +15,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>SDLC Alpha</name>
+        <name>SDLC Alpha WORK IN PROGRESS</name>
         <package_json/>
         <package_resolver_version>1.0.0</package_resolver_version>
         <private>false</private>
@@ -33,9 +33,9 @@
         <sys_created_by/>
         <sys_created_on/>
         <sys_id>ac26e4023bce0b10ac55e8dc73e45afa</sys_id>
-        <sys_mod_count/>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sascha.wildgrube</sys_updated_by>
+        <sys_updated_on>2026-07-14 07:21:56</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -46,7 +46,7 @@
         <x_snc_devtools_documentation_url/>
         <x_snc_devtools_maintainer/>
         <x_snc_devtools_maintainer_email/>
-        <x_snc_devtools_repo_url/>
+        <x_snc_devtools_repo_url>https://github.com/saschawildgrube/servicenow-sdlc-alpha</x_snc_devtools_repo_url>
         <x_snc_devtools_showstopper>false</x_snc_devtools_showstopper>
         <x_snc_devtools_showstopper_details/>
     </sys_app>
